@@ -22,7 +22,11 @@ header img {
     padding-left: 10px;
 }
 
-.topimg h5
+.topimg {
+
+    margin-top: 15px;
+}
+
 /* TABLE STYLE START */
 
 table {
@@ -58,36 +62,86 @@ thead tr {
 
 /* FOOTER START */
 
-.footerimg1 {
+.footerimg {
 
-    background-image: url(../img/monitor.jpg);
+
     background-size: cover;
     width: 150px;
     height: 100px;
     padding: ;
     font-size: 10px;
     color: white;
+    padding: 5px; 
+    margin: 5px;
+    
     
 }
 
-.footerimg2 {
+#foot1 {
 
     background-image: url(../img/graph.jpg);
-    background-size: cover;
-    width: 150px;
-    height: 100px;
-    font-size: 10px;
-    color: white;
-    
 
+}
 
-    
+#foot2 {
+
+    background-image: url(../img/monitor.jpg);
 }
 
 
+    
+
 /* FOOTER END */
+
+
+
+/* FONT ADJUSTMENTS START*/
+
+h1 {
+
+    margin-bottom: 0px;
+}
+
+h3 {
+
+    margin: 0px;
+    font-weight: 100;
+}
+
+footer h3 {
+
+    font-weight: 900;
+}
+
+h4 {
+
+    margin: 0px;
+    font-weight: 100;
+    color: grey;
+}
+
+
+h5 {
+
+    margin: 0px;
+    font-weight: 100;
+    color: grey;
+}
+
+h6 {
+
+    margin: 0px;
+    font-weight: 100;
+}
 
 .evidenziatore {
 
     background-color: yellow;
 }
+
+#autore {
+
+    color: rgb(104, 155, 243);
+    font-weight: 900;
+}
+/* FONT ADJUSTMENTS END */
