@@ -1,0 +1,86 @@
+
+
+
+header {
+
+    background-color: aqua;
+    background-image: url(../img/pattern.png);
+    padding-top:  20px;
+    
+}
+
+header img {
+
+    width: 20%;
+    height: 20%;
+    padding-left: 10px;
+}
+
+/* TABLE STYLE START */
+
+table {
+
+    width: 100%;
+    border: 0px;
+    
+}
+thead tr {
+
+
+    background-color: rgb(92, 183, 232);
+    color: white;
+    
+}
+
+.small {
+
+    width: 20%;
+}
+
+.large {
+
+    width: 60%;
+}
+
+.colored {
+
+    background-color: rgba(128, 223, 235, 0.95);
+}
+
+/* TABLE STYLE END */
+
+/* FOOTER START */
+
+.footerimg1 {
+
+    background-image: url(../img/monitor.jpg);
+    background-size: cover;
+    width: 150px;
+    height: 100px;
+    padding: ;
+    font-size: 10px;
+    color: white;
+    
+}
+
+.footerimg2 {
+
+    background-image: url(../img/graph.jpg);
+    background-size: cover;
+    width: 150px;
+    height: 100px;
+    font-size: 10px;
+    color: white;
+    
+
+
+    
+}
+
+
+/* FOOTER END */
+
+.evidenziatore {
+
+    background-color: yellow;
+}
