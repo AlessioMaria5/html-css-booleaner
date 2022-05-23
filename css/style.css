@@ -1,5 +1,11 @@
 
+body { 
 
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
 
 header {
 
@@ -16,6 +22,7 @@ header img {
     padding-left: 10px;
 }
 
+.topimg h5
 /* TABLE STYLE START */
 
 table {
